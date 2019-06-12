@@ -62,3 +62,12 @@ Caso de Uso a programar:
 - Caso contrário, informa “não houve dados encontrados”
 
 Consultar dados de uma pessoa e ler uma entrada do usuário na forma de uma matrícula, que será buscada numa lista de 5 pessoas, entre alunos, professores e administrativos, que deve ser povoada e mantida a cada execução do programa.
+
+# Diagramas
+
+### Diagrama de classes
+![N|Solid](https://i.imgur.com/xY4P6dU.png)
+### Diagrama de pacotes
+![N|Solid](https://i.imgur.com/Ssam5YE.png)
+### Diagrama de casos de uso
+![N|Solid](https://i.imgur.com/VuEfrpp.png)
