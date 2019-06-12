@@ -1,4 +1,4 @@
-# Sistema de gerenciamento de pessoas
+# Sistema de controle institucional em uma instituição de ensino
 
 ## Proposta
 Desenvolver uma modelagem UML usando Astah e um software utilizando linguagem Java, atendendo às seguintes especificações:
@@ -6,20 +6,20 @@ Desenvolver uma modelagem UML usando Astah e um software utilizando linguagem Ja
 
 > O sistema será utilizado por professores, alunos e funcionários administrativos. Veja a definição das classes abaixo. Os campos em negrito são obrigatórios para instanciar o objeto:
 
-# Aluno
+### Aluno
 - nome (string)
 - cpf (string)
 - matricula (string)
 - cursos (lista de Curso)
 
-# Professor
+### Professor
 - nome (string)
 - cpf (string)
 - matricula (string)
 - salario (double)
 - cursos (lista de Curso)
 
-# Administrativo
+### Administrativo
 - nome (string)
 - cpf (string)
 - matricula (string)
